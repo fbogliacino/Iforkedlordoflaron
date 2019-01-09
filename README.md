@@ -3,6 +3,8 @@ Resources for the workshop on dynamic documents at Universidad del Rosario
 ## this is another version
 ---
 
+something else
+
 Please check back often for new and updated materials
 
 ---
